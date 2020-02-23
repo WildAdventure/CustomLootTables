@@ -1,0 +1,5 @@
+name: CustomLootTables
+main: com.gmail.filoghost.customloottables.CustomLootTables
+version: 1.0
+
+depend: [WildCommons]
